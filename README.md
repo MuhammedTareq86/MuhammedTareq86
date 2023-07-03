@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Tareq Elshami</h1>
-<h3 align="center"> i'm CS student from Egypt</h3>
+<h3 align="center"> i'm CS student at Faculty of Science , Zagazig University</h3>
 <h3 align="center"> Welcome to my humble page</h3>
 
 
